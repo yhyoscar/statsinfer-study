@@ -1,1 +1,1 @@
-Notes on George and Roger's "Statistical Inference"
+# Notes on George and Roger's "Statistical Inference"
